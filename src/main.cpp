@@ -6,7 +6,7 @@
 
 unsigned int Triac_Pulse_MicroSec_Delay = 0;
 //int Pot_Read = 0;
-
+//added to github
 void ICACHE_RAM_ATTR ACdimmer() // put this function in the instruction RAM
 {
   //  Serial.println(digitalRead(Zero_Cross_Detection_input));
